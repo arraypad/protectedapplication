@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProtectedApplication</string>
+    <string name="password_set_ok">OK</string>
+    <string name="password_set_cancel">Cancel</string>
+    <string name="label_password">New password:</string>
+    <string name="label_confirm">Confirm password:</string>
+    <string name="label_password_prompt">Please enter your password:</string>
+    <string name="settings_set_password_title">Set password</string>
+    <string name="settings_set_password_summary">Secures this app from others with access to your phone</string>
+    <string name="settings_remove_password_title">Remove password</string>
+    <string name="settings_remove_password_summary">Warning: Removing your password means that anyone with access to your phone use this app</string>
+</resources>
